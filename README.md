@@ -1,7 +1,15 @@
 # apache-kafka
 
 # Introduction
-- Why Kafka?:
+
+- Kafka
+  - Messages and Batches
+  - Schemas
+  - Topics and Partitions
+  - Producers and Consumers
+  - Brokers and Clusters
+  - Multiple Clusters
+- Why Kafka?
   - Multiple Producers/Consumers
   - Scalable
   - High Performance
