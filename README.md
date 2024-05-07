@@ -7,7 +7,7 @@
   - Schemas
   - Topics and Partitions
   - Producers and Consumers
-  - Brokers and Clusters
+  - Brokers and Clusters: cluster controller, leader, followers, retention (7 days/1 GB)
   - Multiple Clusters
 - Why Kafka?
   - Multiple Producers/Consumers
