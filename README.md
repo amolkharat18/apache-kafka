@@ -2,11 +2,13 @@
 
 # Introduction
 
+- Many to many message delivery problem
+- Publish/Subscribe Messaging
 - Kafka
   - Messages and Batches
   - Schemas
   - Topics and Partitions
-  - Producers and Consumers
+  - Producers and Consumers (Kafka clients): publishers or writers, subscribers or readers, offset, consumer group, ownership
   - Brokers and Clusters: cluster controller, leader, followers, retention (7 days/1 GB)
   - Multiple Clusters
 - Why Kafka?
